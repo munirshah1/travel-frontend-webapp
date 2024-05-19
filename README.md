@@ -93,8 +93,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
 ## <a name="snippets">🕸️ Snippets</a>
 
 <details>
