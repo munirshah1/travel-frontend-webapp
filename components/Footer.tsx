@@ -1,7 +1,6 @@
 import { FOOTER_CONTACT_INFO, FOOTER_LINKS, SOCIALS } from '@/constants';
 import Image from 'next/image';
 import Link from 'next/link';
-import React from 'react';
 
 export default function Footer() {
   return (
@@ -58,7 +57,7 @@ export default function Footer() {
 
         <div className='border bg-gray-20' />
         <p className='regular-14 w-full text-center text-gray-30'>
-          2023 Hilink | All rights reserved
+          {new Date().getFullYear()} Hilink | All rights reserved
         </p>
       </div>
     </footer>
